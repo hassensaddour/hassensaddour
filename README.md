@@ -24,7 +24,7 @@
 </a>
 
 ## Skills
-
+<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Detection Lab</a>|
@@ -33,7 +33,7 @@
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+-->
 ## Certifications
 
 <div>
