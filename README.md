@@ -9,37 +9,46 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer" title="pfSense">
     <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/pfsense-blue.svg" alt="pfSense" width="40" height="40"/>
   </a>
-  <a href="https://www.cisco.com/site/in/en/index.html" target="_blank" rel="noreferrer">
+  <a href="https://www.cisco.com/site/in/en/index.html" target="_blank" rel="noreferrer" title="Cisco">
     <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="70" height="40"/>
   </a>
-  <a href="https://opnsense.org/" target="_blank" rel="noreferrer">
+  <a href="https://opnsense.org/" target="_blank" rel="noreferrer" title="OPNsense">
     <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/opnsense.svg?raw=true" alt="OPNsense" width="40" height="40"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer" title="Wireshark">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="wireshark" width="100" height="50"/>
   </a>
-  <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+  <a href="https://wazuh.com/" target="_blank" rel="noreferrer" title="Wazuh">
     <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/wazuh.svg" alt="wazuh" width="50" height="40"/>
   </a>
-  <a href="https://www.elastic.co/fr/" target="_blank" rel="noreferrer">
+  <a href="https://www.elastic.co/fr/" target="_blank" rel="noreferrer" title="Elasticsearch">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" width="100" height="50"/>
   </a>
-  <a href="https://www.elastic.co/fr/kibana" target="_blank" rel="noreferrer">
+  <a href="https://www.elastic.co/fr/kibana" target="_blank" rel="noreferrer" title="Kibana">
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="90" height="40"/>
   </a>
-  <a href="https://www.elastic.co/fr/logstash" target="_blank" rel="noreferrer">
+  <a href="https://www.elastic.co/fr/logstash" target="_blank" rel="noreferrer" title="Logstash">
     <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="logstash" width="100" height="50"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/>
   </a>
 </p>
+
+<style>
+  a img {
+    transition: transform 0.2s ease-in-out;
+  }
+  a img:hover {
+    transform: scale(1.1);
+  }
+</style>
 
 ---
 
