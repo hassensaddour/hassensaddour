@@ -41,15 +41,6 @@
   </a>
 </p>
 
-<style>
-  a img {
-    transition: transform 0.2s ease-in-out;
-  }
-  a img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 ---
 
 ### 🚀 Skills
